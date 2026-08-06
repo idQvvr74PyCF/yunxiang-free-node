@@ -1,6 +1,6 @@
-# 云享免费节点分享 | 导航版
+# Best Clash Subscribe
 
-> 这份镜像把当天文章入口放在最前面，适合只想快速跳转的人。
+> A Clash-focused landing repository that always points to the current daily article on free.yunxiang.lol.
 
 ## 今日获取入口
 
@@ -22,20 +22,20 @@
 https://free.yunxiang.lol/posts/nodes/2026-08-06
 ```
 
-请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。真实订阅地址统一放在博客正文里，便于更新和失效提示。
+请打开上面的博客文章，在正文“免费订阅地址”区域获取当天可用入口。公开仓库只做入口，真实地址放在统一维护的正文页里，更新更稳。
 
 ## 快速入口
 
 - 今日免费节点文章：https://free.yunxiang.lol/posts/nodes/2026-08-06
-- 每日免费节点归档：https://free.yunxiang.lol/nodes
 - 订阅导入教程：https://free.yunxiang.lol/docs/start/import-subscription
+- 每日免费节点归档：https://free.yunxiang.lol/nodes
 - 常见问题文档：https://free.yunxiang.lol/docs
 - RSS 更新源：https://free.yunxiang.lol/rss.xml
 - 稳定付费套餐：https://user.yunxiangpnv.lol/
 
 ## 使用说明
 
-本站每日北京时间 00:00 自动处理免费节点用户：重置流量、刷新订阅 Token、写入服务端动态数据，并同步 GitHub 分享仓库。先看文章，再看导入说明，路径最短。 仓库里的 `sub/latest.txt` 只保存当天文章链接，不保存真实订阅地址。
+本站每日北京时间 00:00 自动处理免费节点用户：重置流量、刷新订阅 Token、写入服务端动态数据，并同步 GitHub 分享仓库。Clash Verge Rev 和 Clash Meta 用户建议先看当天文章，再顺着导入教程完成配置。 仓库里的 `sub/latest.txt` 只保存当天文章链接，不保存真实订阅地址。
 
 免费节点适合这些场景：
 
